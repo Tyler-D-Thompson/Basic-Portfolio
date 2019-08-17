@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Contact</title>
+<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+
+
+<body>
+
+    <div>
+        <div class="clearfix">
+
+
+            <Section class="Head2">
+                Tyler Thompson
+            </Section>
+
+            <section class="Head4">
+                About Portfolio Contact
+            </section>
+
+        </div>
+
+    </div>
+    <div class="floatclear">
+        <div class="Contact1">
+            <div class="contact2">
+                <h1 class="Contact">Contact</h1>
+                <h2>Name</h2>
+                <input type="text" name="Name">
+                <h2>Email</h2>
+                <input type="email" name="Email">
+                <h2>Message</h2>
+                <textarea></textarea>
+            </div>
+        </div>
+    </div>
+
+</body>
+<footer>
+    <div class="Footer1">
+        CopyRight &copy;>
+    </div>
+</footer>
+
+
+</html>

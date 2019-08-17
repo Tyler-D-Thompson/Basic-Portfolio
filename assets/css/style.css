@@ -1,0 +1,116 @@
+* {
+    box-sizing: border-box;
+    text-align: left;
+}
+
+body {
+  background-color: gray;
+
+    font-family: Arial, Helvetica Nueve, Helvetica, sans-serif;
+}
+
+nav {
+    float: left;
+    text-align: right;
+    color: #4aaaa5
+    ;
+
+}
+
+
+
+.Head2 {
+    float: left;
+    width: 15%;
+    height:60px;
+    padding: 25px;
+    margin-left: 130px;
+    color: white;
+    background-color: #4aaaa5;
+    text-align: center;
+    border-bottom: 20px red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Head4 {
+    float: right;
+    width: 20%;
+    height: 60px;
+    padding: 25px;
+    color: #777777;
+    text-align: left;
+    border-bottom: 20pc red;
+}
+.TextBox1 {
+    padding: 900px;
+    margin: 900px;
+    background-color: grey;
+}
+
+.contact{
+   height: 100%;
+   width: 960px;
+   margin: 40px;
+}
+.Contact1 {
+    background-color: white;
+    color: black;
+    height: 100%;
+    padding: 20px;
+    margin-top:50px;
+    margin-right: 150px;
+    margin-bottom: 150px;
+    margin-left: 150px;
+    border: 0px;
+}
+
+.Footer1 {
+    float: center;
+    margin:0px;
+    border: px;
+    padding:20px;
+    color: #777777;
+    background-color: black;
+    text-align: center;
+    border-color: red;
+}
+
+
+.clearfix {
+    height: 60px;
+    background-color: white;
+    border-bottom: solid black 1px;
+}
+.floatclear {
+    /* float: clear; */
+    width: 960px;
+    margin: auto;
+    
+    
+}
+/* .contact2 {
+    
+} */
+
+input {
+    width: 95%;
+    margin:  0 0 0 5px;
+    padding: 0;
+    border: 1px solid black;
+}
+textarea {
+    overflow: hidden;
+    resize: vertical;
+    height: 216px;
+    width: 95%;
+    border: 1px solid black;
+    margin: 0 0 0 5px;
+
+}
+
+.picturealignment {
+    float: left;
+   
+}
+
+
